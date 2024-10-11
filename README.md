@@ -1,4 +1,4 @@
-# multi_future_chance_constraints
+# Trajectory planning with chance constraints with multiple future predictions
 
 Requirements for toy implementations: 
 
